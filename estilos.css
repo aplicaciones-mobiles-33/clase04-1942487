@@ -5,3 +5,7 @@
 .row {
     margin-bottom: 10px;
 }
+
+#imgResponse {
+    display: none;
+}
